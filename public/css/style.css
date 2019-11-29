@@ -1,0 +1,47 @@
+.logo{
+    align-content: center;
+    height: 80px;
+}
+.btn-width{
+    width:100%
+}
+.round-circle{
+    width: 120px;
+    height: 120px;
+    margin-right:5%
+}
+.nodata{
+    text-align: center;
+    margin-top:2%;
+}
+.media{
+    margin-top:2%
+}
+.langIcon{
+    width: 60px;
+}
+.navbar-brand>img{
+    width:300px;
+    height: 80px;
+}
+.bg-color {
+    background-color: #e9f8f9!important;
+}
+.bg-white{
+    background-color: #ecefef!important;
+}
+.btn-primary{
+    color:black !important;
+    background-color:#cdebef !important;
+    border-color:#1b1a1b !important
+}
+
+.btn-primary:hover{
+    color:black !important;
+    background-color:#b5eaf1 !important;
+    border-color:#1b1a1b !important
+}
+
+.dialog{
+    width:1500px !important;
+}
